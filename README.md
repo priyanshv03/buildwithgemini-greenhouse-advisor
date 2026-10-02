@@ -6,6 +6,12 @@ An intelligent, multi-turn AI assistant designed to help greenhouse managers and
 
 ---
 
+## 🌐 Live Deployment Link
+
+- **Live Web Application (Cloud Run)**: [https://greenhouse-advisor-frontend-272muptqla-ue.a.run.app](https://greenhouse-advisor-frontend-272muptqla-ue.a.run.app)
+
+---
+
 ## 🌟 Key Features & Google Cloud Services
 
 All features listed below are fully implemented in code in `app/` and configured via `agents-cli-manifest.yaml`:
